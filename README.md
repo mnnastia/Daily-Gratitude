@@ -1,5 +1,4 @@
 # Daily-Gratitude
-
 # Description
 "Daily Gratitude" is a simple mobile application designed to help users focus on the positive moments in their lives and practice gratitude. It features a straightforward interface and functionality that assists users in tracking and recording various things they are grateful for.
 
@@ -11,5 +10,3 @@ Sharing Entries: Users can share their gratitude with friends or family through 
 Inspirational Quotes: The app may also include daily inspirational quotes or tips on gratitude to motivate users.
 # Benefits
 This app can be beneficial for individuals who want to focus on the positive aspects of their lives and improve their mental well-being.
-
-
